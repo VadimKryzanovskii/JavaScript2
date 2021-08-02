@@ -1,0 +1,13 @@
+.goods-item {
+  width: 200px;
+  height: 100px;
+  margin-left: 10px;
+  margin-top: 10px;
+  float: left;
+  background-color: azure;
+  border: solid 1px black;  
+}
+.head-menu {
+  width: 100%;
+  background-color: beige;
+}
